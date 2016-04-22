@@ -1,0 +1,26 @@
+{
+  "name": "bingo.js",
+  "description": "bingoJS是一个前端MV*开发框架， 致力打造最完善的浏览端JS开发框架，在双向绑定方面提取现有MV框架各种优点，并将模块化开发、按需动态加载、依赖注入、服务化等技术集成到框架，而且对现在所有框架都没任何冲突顺利兼容，让你只需简单配置就可以只关注自己业务代码的编写。",
+  "main": [
+    "dist/bingo.js",
+    "dist/bingo.min.js"
+  ],
+  "keywords": [
+    "bingo.js"
+  ],
+  "authors": [
+    "front-Y"
+  ],
+  "license": "MIT",
+  "homepage": "http://bingojs.mydoc.io/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^1.8.1"
+  }
+}
